@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Daily Inspirational Quotes",
+    "version": "1.0",
+    "description": "Get daily inspirational quotes to brighten your day.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
+  
+

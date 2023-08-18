@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Use flexbox to create a horizontal layout */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+  }
+  
+  /* Increase the width of the quote-container to make it wider */
+  .quote-container {
+    max-width: 200%; /* Adjust this value to make it wider */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  blockquote {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center; /* Center the quote text horizontally */
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005a9e;
+  }
+  
+  
