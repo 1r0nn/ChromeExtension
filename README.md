@@ -1,4 +1,4 @@
-#Daily Inspirational Quotes - Chrome Extension
+# Daily Inspirational Quotes - Chrome Extension
 
 Saves when you close the browser and generates a new quote when you press the "Get New Quote" button.
 Can upload more or different quotes within the popup.js file.
